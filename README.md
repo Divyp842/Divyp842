@@ -11,7 +11,7 @@
 
 - E-commerce full stack MERN project **E-mart**
 
-- first project [BookHub](https://685ff4e801fb0b1fc438e3a4--rad-boba-d772cf.netlify.app/)
+- first project [BookHub](https://6888729de09befbcd8ade1e8--bookhub12.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Divyp842](https://github.com/Divyp842)
 
